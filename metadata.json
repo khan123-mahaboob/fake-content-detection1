@@ -1,0 +1,5 @@
+{
+  "name": "Veritas AI",
+  "description": "An AI-powered information verification tool to help you distinguish between reliable news and misinformation using Gemini and Google Search grounding.",
+  "requestFramePermissions": []
+}
